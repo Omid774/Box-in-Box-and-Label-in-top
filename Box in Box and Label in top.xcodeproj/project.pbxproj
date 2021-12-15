@@ -13,6 +13,7 @@
 		F7305CD7276A6B0E006B6CCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7305CD5276A6B0E006B6CCC /* Main.storyboard */; };
 		F7305CD9276A6B0F006B6CCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7305CD8276A6B0F006B6CCC /* Assets.xcassets */; };
 		F7305CDC276A6B0F006B6CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7305CDA276A6B0F006B6CCC /* LaunchScreen.storyboard */; };
+		F7305CE8276A7B64006B6CCC /* Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png in Resources */ = {isa = PBXBuildFile; fileRef = F7305CE7276A7B64006B6CCC /* Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F7305CD8276A6B0F006B6CCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7305CDB276A6B0F006B6CCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F7305CDD276A6B0F006B6CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7305CE7276A7B64006B6CCC /* Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F7305CD8276A6B0F006B6CCC /* Assets.xcassets */,
 				F7305CDA276A6B0F006B6CCC /* LaunchScreen.storyboard */,
 				F7305CDD276A6B0F006B6CCC /* Info.plist */,
+				F7305CE7276A7B64006B6CCC /* Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png */,
 			);
 			path = "Box in Box and Label in top";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				F7305CDC276A6B0F006B6CCC /* LaunchScreen.storyboard in Resources */,
 				F7305CD9276A6B0F006B6CCC /* Assets.xcassets in Resources */,
+				F7305CE8276A7B64006B6CCC /* Simulator Screen Shot - iPhone 12 Pro - 2021-12-15 at 23.06.51.png in Resources */,
 				F7305CD7276A6B0E006B6CCC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
